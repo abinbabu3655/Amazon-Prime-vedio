@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    outline: none;
+}
+body{
+    font-family: Amazon Ember,Amazon Arabic Ember,Arial,sans-serif;
+}
+
+.navbar{
+    background-color: #1a242f;
+    height: 80px;
+    padding-top: 20px;
+}
+.main-bg{
+    background-color: #1a242f;
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+}
